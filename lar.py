@@ -1,7 +1,8 @@
-def hLargest(arr,h):
-    arr.sort(reverse=True)
-    for(i in range(h):
-        print(arr[h],end" ")
-arr=[1,6,55,7,4,88,9]
-h=3
-hLargest(arr,k)
+sum=0
+a=input().split()
+b=input().split()
+i=int(a[0])
+p=int(b[1])
+for g in range(0,p):
+  sum=sum+int(b[g])
+print(sum)
