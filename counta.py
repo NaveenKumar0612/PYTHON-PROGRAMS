@@ -1,6 +1,6 @@
-l=int(input("enter number:"))
+b=int(input("enter the number:"))
 count=0
-while(l>0):
+while(b>0):
     count=count+1
-    l=l//10
+    b=b//10
 print("the number of digits in the number are:",count)
