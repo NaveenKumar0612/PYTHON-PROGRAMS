@@ -1,4 +1,4 @@
-#odd
+#Odd
 b=input().split()
 n=int(b[0])
 q=int(b[1])
