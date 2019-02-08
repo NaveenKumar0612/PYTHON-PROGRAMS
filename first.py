@@ -1,8 +1,8 @@
 def main():
-    a=int(raw_input("enter a number"))
-    if(a>0):
+    b=int(raw_input("enter a number"))
+    if(b>0):
       print("The number is positive")
-    elif(a<0):
+    elif(b<0):
         print("The number is negative")
     else:
         print("The number is zero")
