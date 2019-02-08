@@ -8,4 +8,4 @@ if num > 1:
    else:
        print("yes")
 else:
-   print("INVALID")
+   print("Invalid")
